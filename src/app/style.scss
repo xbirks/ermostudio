@@ -805,6 +805,14 @@ a{
         .index__contact{
             width: auto;
             background-color: $negro-ermo;
+            &:hover {
+                background-color: $negro-ermo;
+                width: auto;
+              }
+            
+              &:hover .index__team {
+                width: auto;
+              }
         }
     
         .button-large{
