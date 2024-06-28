@@ -1,0 +1,38 @@
+{
+    "proyectos": [
+      {
+        "ID": "1",
+        "TITULO_PROYECTO": "BSN Cosmétics",
+        "DESCRIPCION": "Restaurante de comida mediterránea fusión en el centro de Valencia. #Fotografía",
+        "IMG_CARATULA": "https://soyandres.es/ermo/video/01_project_ERMO.mp4",
+        "ENLACE": "/not-found",
+        "IMG_ALT": "este es el ALT de la imagen 01 perro snao"
+      },
+      {
+        "ID": "2",
+        "TITULO_PROYECTO": "Consultoría Sanoguera",
+        "DESCRIPCION": "Grupo sanitario privado con hospitales en Elche, Benidorm y Valencia, y policlínicas en Torrevieja y Teulada. Un asistencia sanitaria de alta calidad para cuidar de su salud.",
+        "IMG_CARATULA": "https://soyandres.es/ermo/video/02_project_ERMO.mp4",
+        "ENLACE": "/not-found",
+        "IMG_ALT": "perro sanche cabron"
+      },
+      {
+        "ID": "3",
+        "TITULO_PROYECTO": "Consum Supermercados",
+        "DESCRIPCION": "Perro perrete perro",
+        "IMG_CARATULA": "https://soyandres.es/ermo/video/03_project_ERMO.mp4",
+        "ENLACE": "/not-found",
+        "IMG_ALT": "Visca catalunya peero"
+      },
+      {
+        "ID": "4",
+        "TITULO_PROYECTO": "Ice Balls - Cubers",
+        "DESCRIPCION": "Fotografía documental del evento Lost in Change de Inforges con WeAddYou.",
+        "IMG_CARATULA": "https://soyandres.es/ermo/video/04_project_ERMO.mp4",
+        "ENLACE": "/not-found",
+        "IMG_ALT": "El perro de san roque no tieen rabo"
+      }
+      
+    ]
+  }
+  
