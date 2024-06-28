@@ -791,10 +791,20 @@ a{
     
         .index__team{
             width: auto;
+            background-color: $azul-ermo;
+            &:hover {
+                background-color: $azul-ermo;
+                width: auto;
+              }
+            
+              &:hover .index__contact {
+                width: auto;
+              }
         }
         
         .index__contact{
             width: auto;
+            background-color: $negro-ermo;
         }
     
         .button-large{
@@ -852,6 +862,7 @@ a{
     
         .post__container{
             width: 100%;
+            margin-bottom: 56px;
         }
     
         .index__services{
@@ -865,10 +876,18 @@ a{
         }
     
         .index__services-container{
-            width: 200px;
+            width: 60vw;
             flex: 0 0 auto;
             height: 600px;
         } 
+
+        .index__services > .index__services-container:first-child {
+            margin-left: 24px;
+          }
+
+          .index__services > .index__services-container:last-child {
+            margin-right: 24px;
+          }
     
         
     
