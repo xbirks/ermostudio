@@ -66,7 +66,9 @@ export default function RootLayout({ children }) {
 
     <html lang="es">
 
-
+      <head>
+      <link rel="stylesheet" href="https://use.typekit.net/ury2gea.css"></link>
+      </head>
     
   
       <body>

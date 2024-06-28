@@ -38,7 +38,7 @@ function ContactTeam() {
                 <Image className="index__info-img" src={Cafe} decoding="async" alt="ilustración de Ermo bañandose en café" width={927} height={989} />
             </div>
 
-            <div className="title index__info-title"><h3 className="">¿Tomamos un café?</h3></div>
+            <div className="title index__info-title"><h3 className="">¿Tomamos un ca fé?</h3></div>
 
             <p className="index__team-txt team-txt-1">Y comentamos el proyecto que tienes entre manos.</p>
 
