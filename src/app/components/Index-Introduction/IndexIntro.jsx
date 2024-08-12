@@ -8,13 +8,13 @@ function IndexIntro(){
         IndexIntro="Estudio de diseño gráfico, web, animación y fotografía en "
         IndexIntroLocation="Manises"
         IndexDescription={ <>
-            En nuestro estudio de diseño, nos dedicamos a dar vida a la creatividad y a desafiar los límites de lo posible. Cada proyecto es una oportunidad para explorar nuevas ideas y transformar visiones en realidades visuales que inspiran y conectan. <br /><br />
-  
-            Somos más que diseñadores, somos contadores de historias visuales. Desde el diseño de identidades impactantes hasta la creación de experiencias visuales que cautivan, cada detalle es meticulosamente elaborado para transmitir autenticidad y diferenciación. <br /><br />
-  
-            En un mundo que cambia rápidamente, ayudamos a las marcas a destacar y a adaptarse con soluciones que combinan innovación y creatividad. Nuestro compromiso es impulsar tu visión con un enfoque fresco y juvenil, sin perder de vista la profesionalidad y el impacto. <br /><br />
-  
-            Desde nuestros inicios, hemos estado creando marcas y proyectos que no solo cumplen, sino que también inspiran. ¿Estás listo para llevar tu próxima gran idea al siguiente nivel con nosotros?
+            En nuestro estudio de diseño, disfrutamos llevando las ideas al siguiente nivel. Cada proyecto es una oportunidad para explorar nuevas ideas y convertirlas en algo visual que realmente impacta y conecta. <br></br><br></br>
+
+            No somos solo diseñadores; nos vemos como narradores visuales. Ya sea creando una identidad que deje huella, unas fotografías minimlístas e impactantes o diseñando experiencias visuales y páginas web que enganchen, nos tomamos en serio cada detalle para asegurarnos de que lo que hacemos sea auténtico y diferente. <br></br><br></br>
+
+            Sabemos que el mundo cambia rápido, y por eso ayudamos a las empresas a destacarse y adaptarse con soluciones que mezclan innovación y creatividad. Queremos darle vida a tu objetivo empresarial con un enfoque joven y dinámico, pero siempre manteniendo el enfoque profesional y que busca la eficacia. <br></br><br></br>
+
+            Desde que empezamos en Manises, hemos trabajado en marcas y proyectos que no solo cumplen, sino que también inspiran y dan resultados. ¿Te animas a dar forma a tu nueva idea con nosotros?
           </>}
         
     />
